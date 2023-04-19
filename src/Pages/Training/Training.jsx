@@ -59,7 +59,7 @@ function Tranning() {
           <Carousel
             data={data}
             time={2000}
-            width="850px"
+            width="1500px"
             height="500px"
             captionStyle={captionStyle}
             radius="10px"
@@ -76,7 +76,7 @@ function Tranning() {
             thumbnailWidth="100px"
             style={{
               textAlign: "center",
-              maxWidth: "850px",
+              maxWidth: "1500px",
               maxHeight: "500px",
               margin: "40px auto",
             }}
