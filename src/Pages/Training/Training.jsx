@@ -5,12 +5,12 @@ function Tranning() {
   const data = [
     {
       image:
-        "https://images.pexels.com/photos/116077/pexels-photo-116077.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/116077/pexels-photo-116077.jpeg",
       caption: "Body Building",
     },
     {
       image:
-        "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3822864/pexels-photo-3822864.jpeg",
       caption: "Yoga",
     },
     {
@@ -20,18 +20,38 @@ function Tranning() {
     },
     {
       image:
-        "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=600",
-      caption: "Cardio Exercise",
+        "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg",
+      caption: "Extreme Exercise",
     },
     {
       image:
-        "https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg",
       caption: "Aerobic",
     },
     {
       image:
-        "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg",
       caption: "Core exercises",
+    },
+    {
+      image:
+        "https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg",
+      caption: "Warm-up exercises",
+    },
+{
+      image:
+        "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg",
+      caption: "Running",
+    },
+    {
+      image:
+        "https://images.pexels.com/photos/7801364/pexels-photo-7801364.jpeg",
+      caption: "Wake up and Workout",
+    },
+    {
+      image:
+        "https://images.pexels.com/photos/3076516/pexels-photo-3076516.jpeg",
+      caption: "Cardio Exercise",
     },
   ];
 
@@ -45,7 +65,7 @@ function Tranning() {
   };
   
   return (
-    <div className="Tranning">
+    <div className="Tranning1">
       <div style={{ textAlign: "center" }}>
         <h2 style={{color:"orange" ,fontSize:"5rem"}}>Training Programs</h2>
         <p>

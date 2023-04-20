@@ -135,10 +135,6 @@
       bottom: 0px;
       border-radius: 0 0 10px;
   }
-  .Tranning{
-    background-color:black;
-
-  }
   
   .progress {
     width: 1%;
@@ -161,6 +157,22 @@
   .active-thumbnail {
     border: #476ff1 solid 3px;
   }
+
+  .Tranning p{
+    color:white;
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
+  .Tranning h1{
+    color: white;
+    text-decoration: underline;
+    font-size: 4rem;
+    font-family: 'Lobster Two', cursive;
+    
+  }
+
+
   @keyframes pause {
     0% {opacity: .2; }
     90% {opacity: 1; }
@@ -205,4 +217,3 @@
       bottom: 25px;
     }
   }
-  
